@@ -17,3 +17,8 @@ namespace UsersCrud.Models
     }
 
 }
+
+// Mongo DB - MyAppDB -> Users
+// CREATE DATABASE MyAppDB;
+//  USE MyAppDB;
+
